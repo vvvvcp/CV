@@ -40,7 +40,7 @@ main: #简历主要内容，
   content:
   - title: 1988年10月30日 30岁
     summary: 
-    detail: 
+    detail:
       md: _data/history.md
 
 - type: experience

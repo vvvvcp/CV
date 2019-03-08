@@ -14,7 +14,7 @@ print:
   #字体大小
   fontsize: 12px
   #页面边距设置，3~5mm为佳[不建议修改]
-  page-margin: '6mm 5mm 3mm' #上，右(无同上)，下(无同上)，左（无同右）
+  page-margin: '10mm 5mm 3mm' #上，右(无同上)，下(无同上)，左（无同右）
   #也顶部(姓名栏目)边距偏移
   header-padding: '8mm 0 3mm'
   #每块设置(对应main里面每一条)
